@@ -29,8 +29,7 @@ Nineteenfive is India’s ultimate shopping destination for clothes. Forget visi
     <li>Earnings and Orders Chart</li>
 </ol>
 
-<h3 style="font-size: 18px; letter-spacing: 1.2px">CREATED BY</h3>
+<h3 style="font-size: 18px; letter-spacing: 1.2px">User App</h3>
 
-[Ajaysinh Rathod](https://github.com/Ajaysinh1290)
+https://github.com/Ajaysinh1290/nineteenfive-ecommerce-app
 
-Email : ajaysinhrathod1290@gmail.com
